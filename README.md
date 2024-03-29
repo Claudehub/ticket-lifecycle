@@ -29,6 +29,52 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+1. **Access the Ticketing System:**
+   - Open your web browser and navigate to the osTicket login page.
+   - Enter your credentials to log in to the osTicket system.
+
+2. **Create a New Ticket:**
+   - Once logged in, locate the "New Ticket" option or button.
+   - Click on it to open the ticket creation form.
+   - Fill in the required fields such as "Subject", "Message", and any other relevant details.
+   - Optionally, select the appropriate department, priority, and help topic.
+   - Click "Submit" or "Create Ticket" to submit the new ticket.
+
+3. **View and Manage Tickets:**
+   - After creating a ticket, you will typically land on the "Tickets" or "Ticket Queue" page.
+   - Here, you can see a list of all tickets, including their status, subject, and other relevant information.
+   - Click on a ticket to view its details and take action.
+
+4. **Assign the Ticket:**
+   - If you are an agent with the necessary permissions, you can assign the ticket to yourself or another agent.
+   - In the ticket details view, locate the "Assign To" or "Agent" field.
+   - Select the appropriate agent from the dropdown menu.
+   - Save or update the ticket to assign it.
+
+5. **Work on the Ticket:**
+   - Once assigned, you can start working on the ticket.
+   - Communicate with the customer if additional information is required or provide updates on the ticket's progress.
+   - Use internal notes to communicate with other agents or leave notes for future reference.
+   - Update the ticket status, priority, and other relevant fields as needed.
+
+6. **Resolve the Ticket:**
+   - After resolving the issue reported in the ticket, update the ticket status accordingly.
+   - Mark the ticket as "Resolved", "Closed", or any other appropriate status.
+   - Optionally, provide a resolution message or summary of the actions taken to resolve the issue.
+   - Save or update the ticket to reflect its resolved status.
+
+7. **Close the Ticket:**
+   - Once the ticket is resolved and all necessary actions are taken, you can close the ticket.
+   - Mark the ticket as "Closed" or move it to a closed status.
+   - Optionally, add any final notes or details before closing the ticket.
+   - Save or update the ticket to close it.
+
+8. **Review and Follow-Up:**
+   - Periodically review closed tickets to ensure customer satisfaction and identify any recurring issues.
+   - Follow up with customers if necessary to ensure their issues are fully resolved and they are satisfied with the support provided.
+   - Use ticket data and reports to analyze support trends and improve the overall support process.
+
+Following these steps will guide you through the process of creating, working on, and resolving tickets within the osTicket system.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
